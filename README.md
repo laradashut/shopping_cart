@@ -23,8 +23,11 @@ Once you hover over "Pickup savings", the tooltip will be displayed.
 To build the example locally, clone this repo then run:
 
 npm install // to install dependencies
+
 npm start // to run server
+
 npm run dev // to run webpack
+
 Then open localhost:3000 in a browser.
 
 
