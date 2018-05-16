@@ -4,8 +4,6 @@ Shopping Cart
 
 ![Alt text](client/shopping_cart.gif)
 
-shopping_cart.gif
-
 
 # Project Description
 
