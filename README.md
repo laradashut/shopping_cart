@@ -2,6 +2,9 @@
 
 Shopping Cart
 
+shopping_cart.gif
+
+
 # Project Description
 
 Shopping Cart is displaying Price, Discount, Taxes and Total Price.
