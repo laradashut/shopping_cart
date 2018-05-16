@@ -1,0 +1,147 @@
+@import url("http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+.Checkout {
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 230px;
+  font-size: 0.75rem;
+  overflow: hidden;
+}
+
+/* Order Summary */
+.OrderSummary .OrderTable {
+  width: 100%;
+  padding: 0.75rem 0.75rem;
+}
+
+.OrderSummary .OrderTable tr td {
+  padding-bottom: 0.2rem;
+  padding-top: 0.2rem;
+}
+
+.OrderSummary .OrderTable .PickupSavings td:last-child{
+  color: red;
+}
+
+.OrderSummary .OrderTable .PickupSavings td:first-child{
+  text-decoration: underline;
+}
+
+.OrderSummary .OrderTable tr td:first-child {
+  text-align: left;
+}
+
+.OrderSummary .OrderTable tr td:last-child {
+  text-align: right;
+  font-size: 0.9rem;
+}
+
+.OrderSummary table tr:last-child {
+  border: solid 1px black;
+}
+
+.EstTotal {
+  font-size: 1rem;
+}
+
+.EstTotalAmount {
+  font-size: 2rem;
+}
+
+img {
+  float: left;
+  padding-left: 1rem;
+}
+
+.ButtonItemDetails {
+  float: left;
+  border: none;
+  padding: 0.2rem 0.25rem;
+  text-align: center;
+  font-size: 0.75rem;
+  margin: 0.5rem 0.5rem;
+  text-decoration-line: underline;
+}
+.ButtonPromoCode {
+  float: left;
+  border: none;
+  padding: 0.2rem 0.25rem;
+  text-align: center;
+  font-size: 0.75rem;
+  margin: 0.5rem 0.5rem;
+  text-decoration-line: underline;
+}
+
+.ItemViewDescription {
+  display: inline-block;
+}
+
+.ItemViewDescription p {
+  padding-right: 10px;
+  text-align: left;
+}
+
+.ItemViewDescription .OrderTable tr td:last-child {
+  text-align: right;
+}
+
+.ItemViewDescription .OrderTable tr td .PickupSavings {
+  text-decoration: underline;
+}
+
+.PromoCodeView {
+  display: inline;
+  padding: 30px;
+}
+
+.PromoLabel {
+  float: left;
+  text-align: left;
+  color: grey;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.PromoCodeInput {
+  align-self: left;
+  height: 25px;
+  border-radius: 3px;
+}
+
+.ApplyButton {
+  float: right;
+  padding: 7px 10px;
+  border-radius: 13px;
+  border: 1px solid black;
+  font-size: 0.75rem;
+  padding-left: 10px;
+}
+
+.TooltipText {
+  position: absolute;
+  word-wrap: break-word;
+  min-width: 23px;
+  max-width: 140px;
+  background: #fff;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  font-size: 0.9375em;
+  line-height: 1.4em;
+  padding: 20px;
+  z-index: 4;
+  text-align: left;
+  top: 60px;
+  left: -20px;
+}
+
+hr {
+  display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
