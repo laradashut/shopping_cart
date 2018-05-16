@@ -7,7 +7,9 @@ Shopping Cart
 Shopping Cart is displaying Price, Discount, Taxes and Total Price.
 
 Once you click on "Show item details", the link will expand to display item details, that are in the cart
+
 Once you click on "Apply promo code", the link will expand to dispaly input box for inserting promo code
+
 Once you hover over "Pickup savings", the tooltip will be displayed.
 
 ## Requirements
