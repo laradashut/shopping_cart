@@ -2,7 +2,7 @@
 
 Shopping Cart
 
-![](shopping_cart.gif)
+![alt-text](shopping_cart.gif)
 
 shopping_cart.gif
 
