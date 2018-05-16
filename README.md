@@ -2,7 +2,7 @@
 
 Shopping Cart
 
-![Alt text](shopping_cart.gif)
+![Alt text](client/shopping_cart.gif)
 
 shopping_cart.gif
 
